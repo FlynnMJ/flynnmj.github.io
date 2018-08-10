@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>R|Flynn&#39;s BLOG</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-06-26T02:57:56.163Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>R | Flynn</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>博客心得</title>
+    <link href="http://yoursite.com/2017/07/22/1.some_ideas/"/>
+    <id>http://yoursite.com/2017/07/22/1.some_ideas/</id>
+    <published>2017-07-22T03:42:41.000Z</published>
+    <updated>2018-06-26T02:57:56.163Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="概要"><a href="#概要" class="headerlink" title="概要"></a>概要</h2><p>捣鼓了一天半终于出来了，哎，真的是心酸，第一篇博客就不聊技术了，分享下能顺利的到达这一步，安静敲下该篇博客的心路历程吧。此时的我好累又兴奋。</p>
+<a id="more"></a>
+<h3 id="开始有这个想法"><a href="#开始有这个想法" class="headerlink" title="开始有这个想法"></a>开始有这个想法</h3><p>1.一直想有自己的博客，想着有没有简单的方法，因为博客嘛，重要的还是内容，可以托管在CSDN(<a href="http://blog.csdn.net/rsky1314" target="_blank" rel="external">我的CSDN</a>)，但是CSDN我开始不喜欢了，原因是好多COPY的，我抄抄你，你抄抄我，<br>很没意思，可能有些人根本就没验证过是否正确，也就直接拷贝，没有论证正确性，也就是没有自己的观点，没有自己的态度。<br><br>2.为什么没有选择简书呢？百度搜问题（最近zf限制VPN很厉害，大家还是不要google了，小心写断网保证书。）见识过简书，但是我又爱折腾，直接在简书上写内容，体现不出我的爱折腾，与众不同，没有逼格，所以你懂得的。<br><br>3.为什么没有选择WordPress呢?网上搜了一下，太烦（我只是想做内容，烦的话，我何必花时间在这？还不如看看优秀源码设计原理了），就没有深入了解。<br><br>4.为什么选择github page呢？我觉着github是程序员的后花园，里面很多优秀的开源项目，能学到很多东西，很抱歉（对自己说的，为什么这么晚才接触到,我写博客也是主要为了自己写的，很不喜欢喷子，先不开评论）。就在此时偶然间看到github page+hexo，很酷炫，很简洁，mardown格式生成静态页面，hexo这玩意有点为了github而生的感觉。markdown也是我偶然看到了，毕竟我待得公司还在用的SVN，有些人就是体会不会新技术带来的快感。</p>
+<h3 id="开始倒腾了（正常人的思路）"><a href="#开始倒腾了（正常人的思路）" class="headerlink" title="开始倒腾了（正常人的思路）"></a>开始倒腾了（正常人的思路）</h3><p>1.先整理一个github page怎么搞（没用过github的话，还是先去用用吧0.0）。<br><br>2.<a href="https://hexo.io/" target="_blank" rel="external">hexo</a>看下文档怎么搞。<br>（你写mardown, <code>hexo g</code>  帮你自动生成静态页面，可以本地测试，这点很舒服。本地测试命令<code>hexo server</code>）<br><br>3.传github配置一些参数，(细节自己google吧,这边只有整体思路流程)命令：<code>hexo -d</code><br>4.hexo有主题，默认是 landscape，我用的是<a href="https://github.com/litten/hexo-theme-yilia" target="_blank" rel="external">yilia</a></p>
+<h3 id="推荐工具"><a href="#推荐工具" class="headerlink" title="推荐工具"></a>推荐工具</h3><p>1.<a href="http://download.csdn.net/download/wang_jun_hua/7926441" target="_blank" rel="external">MarkdownPad2</a> （markdown编辑器）<br><br>2.<a href="http://www.jianshu.com/p/3cb5c6f2421c/" target="_blank" rel="external">Sublime Text3</a></p>
+<h3 id="必备条件"><a href="#必备条件" class="headerlink" title="必备条件"></a>必备条件</h3><p>1.<a href="http://nodejs.cn/" target="_blank" rel="external">NodeJs</a><br><br>2.<a href="https://hexo.io/" target="_blank" rel="external">Hexo</a></p>
+<h3 id="以后"><a href="#以后" class="headerlink" title="以后"></a>以后</h3><p>以后我写的每一篇都是我自己有感悟的或者说动手做过分享经验的。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;概要&quot;&gt;&lt;a href=&quot;#概要&quot; class=&quot;headerlink&quot; title=&quot;概要&quot;&gt;&lt;/a&gt;概要&lt;/h2&gt;&lt;p&gt;捣鼓了一天半终于出来了，哎，真的是心酸，第一篇博客就不聊技术了，分享下能顺利的到达这一步，安静敲下该篇博客的心路历程吧。此时的我好累又兴奋。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="work" scheme="http://yoursite.com/categories/work/"/>
+    
+    
+      <category term="github page" scheme="http://yoursite.com/tags/github-page/"/>
+    
+      <category term="心得" scheme="http://yoursite.com/tags/%E5%BF%83%E5%BE%97/"/>
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+  </entry>
+  
+</feed>
