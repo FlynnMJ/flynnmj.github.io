@@ -1,0 +1,2 @@
+# flynnmj.github.io
+myblog
